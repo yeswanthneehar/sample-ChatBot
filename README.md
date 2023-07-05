@@ -1,1 +1,1 @@
-# sample-bot
+# sample-ChatBot
